@@ -11,7 +11,7 @@ I focus on building small projects to strengthen my fundamentals and learn moder
 ---
 
 ## 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,tailwind" />
 
 ---
 
@@ -21,7 +21,7 @@ I focus on building small projects to strengthen my fundamentals and learn moder
 ---
 
 ## 🗄️ Environment / DB / Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,npm" />
 
 ---
 
@@ -31,4 +31,4 @@ I focus on building small projects to strengthen my fundamentals and learn moder
 ---
 
 ## 📘 Learning
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,prisma,docker,python,cursor" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,prisma,docker,python" />
